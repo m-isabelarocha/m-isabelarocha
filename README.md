@@ -17,8 +17,7 @@
 ### GitHub Stats:
 <div>
 <a href="https://github.com/m-isabelarocha">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-isabelarocha&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-isabelarocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-isabelarocha&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-isabelarocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
 ### Gadgets & Technologies:
@@ -27,3 +26,5 @@
 
 ### Learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+![Snake animation](https://github.com/m-isabelarocha/m-isabelarocha/blob/output/github-contribution-grid-snake.svg)
