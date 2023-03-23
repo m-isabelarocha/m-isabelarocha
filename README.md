@@ -27,5 +27,3 @@
 
 ### Learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-![Snake animation](https://github.com/m-isabelarocha/m-isabelarocha/blob/output/github-contribution-grid-snake.svg)
