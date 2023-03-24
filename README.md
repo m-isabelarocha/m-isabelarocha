@@ -1,5 +1,6 @@
-## Hello! 👋  Welcome to my Github profile.
-### My name is Maria and my nickname is "Mary" or "Isa"!
+## Hi, there! <img src="https://user-images.githubusercontent.com/116117998/227387434-dc812418-a2d1-4ee5-bfb3-9b6deb69d725.gif" width="35">
+## Welcome to my Github profile!
+### My name is Maria and my nickname is "Mary" or "Isa"! :tiger:
 
 ###### I am currently in second semester of Systems Analysis and Development and have been focusing on create skills as a UX Designer and Front End Designer with high expectations that I am on the right track.
 
@@ -21,4 +22,4 @@
 
 #
 ### Tools and Technologies:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>          
