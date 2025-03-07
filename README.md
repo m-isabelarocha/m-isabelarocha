@@ -1,4 +1,4 @@
-## Hi, there! <img src="https://user-images.githubusercontent.com/116117998/227387434-dc812418-a2d1-4ee5-bfb3-9b6deb69d725.gif" width="35">
+## Hi, there! 👋
 ## Welcome to my Github profile!
 ### My name is Maria but you can call"Mary" or "Isa"! :tiger:
 
