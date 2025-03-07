@@ -1,6 +1,6 @@
 ## Hi, there! <img src="https://user-images.githubusercontent.com/116117998/227387434-dc812418-a2d1-4ee5-bfb3-9b6deb69d725.gif" width="35">
 ## Welcome to my Github profile!
-### My name is Maria and my nickname is "Mary" or "Isa"! :tiger:
+### My name is Maria but you can call"Mary" or "Isa"! :tiger:
 
 ###### I am currently in last semester of Systems Analysis and Development and have been focusing on create skills as a UX Designer and Front End Developer with high expectations that I am on the right track.
 
@@ -13,12 +13,6 @@
 <a href="https://instagram.com/wholelotta.mary" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mariaisarocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href ="mailto:m.isabelarocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-#
-### GitHub Stats:
-<div> 
-<a href="https://github.com/m-isabelarocha">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-isabelarocha&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=m-isabelarocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 #
 ### Tools and Technologies:
@@ -29,5 +23,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
+
+#
+### GitHub Stats:
+<div> 
+<a href="https://github.com/m-isabelarocha">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-isabelarocha&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=m-isabelarocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
