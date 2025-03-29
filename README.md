@@ -8,11 +8,6 @@
 
 #
 
-> #### *With a big love for photography, reading and motorcycles, I carry with me looks, stories and landscapes that can never be forgotten.*
-> ![4IOm](https://user-images.githubusercontent.com/116117998/227090014-dde84e2c-8429-4c66-8200-be24be392ef2.gif)
-
-#
-
 ### If you wanna know more about me you can find me at: 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pwr.mary/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisarocha/)
