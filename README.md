@@ -4,7 +4,7 @@
 
 ###### I am currently in last semester of Systems Analysis and Development and have been focusing on create skills as a UX Designer and Front End Developer with high expectations that I am on the right track.
 
-###### My professional background boils down to the administrative and financial area in several sectors, from the insurance office to the motorcycle and repair shop. I'm very grateful for every place I've ever been, as I've grown and gained incredible knowledge and experiences that I'll carry with me forever. But today I decided to walk a new path into the technology area, so I'm in a pretty cool career transition phase.
+My professional background boils down to the administrative and financial area in several sectors, from the insurance office to the motorcycle and repair shop. I'm very grateful for every place I've ever been, as I've grown and gained incredible knowledge and experiences that I'll carry with me forever. But today I decided to walk a new path into the technology area, so I'm in a pretty cool career transition phase.
 
 #
 
