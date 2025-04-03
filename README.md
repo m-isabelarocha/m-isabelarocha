@@ -7,13 +7,6 @@ The focus is on web development with Front End, using HTML, CSS and JavasCript a
 
 #
 
-### If you wanna know more about me you can find me at: 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pwr.mary/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisarocha/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#ea2823)](mailto:m.isabelarocha@gmail.com)
-
-#
-
 ### Data Analysis:
 ![SQL](https://img.icons8.com/external-flat-juicy-fish/50/external-sql-coding-and-development-flat-flat-juicy-fish.png)
 ![Python](https://img.icons8.com/color/48/python--v1.png)
@@ -23,3 +16,10 @@ The focus is on web development with Front End, using HTML, CSS and JavasCript a
 ![HTML](https://img.icons8.com/color/60/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/60/css3.png)
 ![JavaScript](https://img.icons8.com/fluency/60/javascript.png)
+
+#
+
+### If you wanna know more about me you can find me at: 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pwr.mary/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisarocha/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#ea2823)](mailto:m.isabelarocha@gmail.com)
